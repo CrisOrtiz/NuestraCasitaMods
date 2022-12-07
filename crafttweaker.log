@@ -1,0 +1,29 @@
+[22:42:29.626][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[22:42:29.635][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[22:42:29.718][INFO]: Successfully identified and loaded plugin botania:default
+[22:42:34.082][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[22:42:34.083][INFO]: - 'botania' at version '1.18.2-435'
+[22:42:34.083][INFO]: - 'crafttweaker' at version '9.1.197'
+[22:42:34.084][INFO]: - 'mysticalagriculture' at version '5.1.2'
+[22:42:59.583][INFO]: Started loading scripts for loader 'initialize'
+[22:43:00.068][INFO]: Compiling and executing scripts
+[22:43:00.118][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[22:43:00.253][INFO]: Execution for loader 'initialize' completed successfully
+[22:43:42.741][INFO]: Started loading scripts for loader 'tags'
+[22:43:42.793][INFO]: Compiling and executing scripts
+[22:43:42.827][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[22:43:42.850][INFO]: Execution for loader 'tags' completed successfully
+[22:43:49.677][INFO]: Started loading scripts for loader 'crafttweaker'
+[22:43:49.729][INFO]: Compiling and executing scripts
+[22:43:50.442][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[22:43:50.477][INFO]: Execution for loader 'crafttweaker' completed successfully
+[23:19:26.014][INFO]: Dumping all recipes that output <item:minecraft:grass_block>!
+[23:19:26.029][INFO]: Recipe type: '<recipetype:create:filling>'
+  ~~ Recipe name: create:filling/grass_block, Outputs: <item:minecraft:grass_block>, Inputs: [<item:minecraft:dirt>], Recipe Class: com.simibubi.create.content.contraptions.fluids.actors.FillingRecipe, Recipe Serializer: create:filling ~~
+
+[23:19:26.029][INFO]: Recipe type: '<recipetype:indreb:scrap_box>'
+  ~~ Recipe name: indreb:scrap_box/grass_block, Outputs: <item:minecraft:grass_block>, Inputs: [], Recipe Class: com.maciej916.indreb.common.recipe.impl.ScrapBoxRecipe, Recipe Serializer: indreb:scrap_box ~~
+
+[23:19:26.047][INFO]: Recipe type: '<recipetype:minecraft:crafting>'
+  craftingTable.addShaped("mysticalagriculture:essence/minecraft/grass_block", <item:minecraft:grass_block> * 20, [[<item:mysticalagriculture:dirt_essence>, <item:mysticalagriculture:dirt_essence>, <item:mysticalagriculture:dirt_essence>], [<item:mysticalagriculture:dirt_essence>, <item:mysticalagriculture:nature_essence>, <item:mysticalagriculture:dirt_essence>], [<item:mysticalagriculture:dirt_essence>, <item:mysticalagriculture:dirt_essence>, <item:mysticalagriculture:dirt_essence>]]);
+
